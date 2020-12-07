@@ -1,4 +1,4 @@
-package com.lambdaschool.orders;
+package src.main.com.lambdaschool.modellingorders;
 
 import com.github.javafaker.Faker;
 import com.lambdaschool.orders.models.Agent;
